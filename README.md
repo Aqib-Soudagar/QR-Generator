@@ -1,0 +1,2 @@
+# QR-Generator
+A QR code generator is a website that creates QR (Quick Response) codes, which are scannable codes that store information such as website URLs, contact details, text, or other data. Users input the desired content, and the generator converts it into a unique black-and-white square pattern that can be scanned by smartphones or QR code readers.
